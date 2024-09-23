@@ -1,0 +1,17 @@
+alpha, for transparency 
+  picom-git: xorg compositer
+done
+
+blinking-cursor
+done
+
+font2, change font size dynamically
+done
+
+scrollback, to see previous output in term
+  st-scrollback done
+  st-ringbuffer done
+  st-float      done
+  st-reflow
+  st-mouse-scroll
+
